@@ -68,4 +68,3 @@ Atualmente estudo Java para desenvolvimento back-end, com Programação Orientad
   <img src="https://komarev.com/ghpvc/?username=viniciusnakasaki&color=0042F4&style=for-the-badge"/>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=viniciusnakasaki&color=0042F4)
