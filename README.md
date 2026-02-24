@@ -8,9 +8,7 @@
 
 Atualmente estudo Java para desenvolvimento back-end, com Programação Orientada a Objetos, integração com bancos de dados via JDBC, persistência com JPA/Hibernate e criação de APIs REST com Spring Boot. Também busco fortalecer minha base em arquitetura de sistemas, organização de código e boas práticas profissionais. 
 
----
-
-# 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,angular,react,html,css,bootstrap,mongodb,mysql,git,figma&perline=7" />
