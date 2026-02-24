@@ -1,4 +1,6 @@
-# 💻 Vinicius Nakasaki
+# <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=35&center=true&vCenter=true&width=900&lines=Vinicius+Nakasaki;;Back-end+Developer" />
+</p>
 
 **`Desenvolvedor FullStack`**
 
@@ -51,9 +53,4 @@ Atualmente estou focado no estudo de desenvolvimento back-end, aprofundando meus
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusnakasaki&layout=compact&theme=tokyonight)
 
----
-
-## 📫 Contato
-
-- LinkedIn: https://www.linkedin.com/in/vinicius-nakasaki-35504522b/  
 
