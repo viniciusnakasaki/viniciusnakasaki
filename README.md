@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=#0042F4&size=35&center=true&vCenter=true&width=900&lines=Hello;Vinicius+Nakasaki;Back-end+Developer;FullStack+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0042F4&size=35&center=true&vCenter=true&width=900&lines=Hello+%F0%9F%91%8B;Vinicius+Nakasaki;Back-end+Developer;FullStack+Developer"/>
 </p>
 
 Atualmente estou focado no estudo de desenvolvimento back-end, aprofundando meus conhecimentos em arquitetura de sistemas e construção de APIs. Tenho grande interesse em trabalhar com back-end, bancos de dados e no desenvolvimento de aplicações web eficientes.
