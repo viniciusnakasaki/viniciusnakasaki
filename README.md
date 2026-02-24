@@ -13,7 +13,7 @@ Atualmente estudo Java para desenvolvimento back-end, com Programação Orientad
 # 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,angular,react,html,css,bootstrap,mongodb,mysql,docker,git,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,angular,react,html,css,bootstrap,mongodb,mysql,git,figma&perline=7" />
 </p>
 
 ## Linguagens
