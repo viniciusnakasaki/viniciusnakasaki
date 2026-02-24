@@ -1,11 +1,6 @@
-# 👋 Vinicius Nakasaki
+# 💻 Vinicius Nakasaki
 
-🎓 Estudante de tecnologia  
-💻 Desenvolvedor em formação  
-  
----
-
-## 🚀 Sobre mim
+**`Desenvolvedor FullStack`**
 
 Atualmente estou focado no estudo de desenvolvimento back-end, aprofundando meus conhecimentos em arquitetura de sistemas e construção de APIs. Tenho grande interesse em trabalhar com back-end, bancos de dados e no desenvolvimento de aplicações web eficientes.
 
@@ -50,11 +45,11 @@ Atualmente estou focado no estudo de desenvolvimento back-end, aprofundando meus
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusnakasaki&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusnakasaki&layout=compact&theme=tokyonight)
 
 ---
 
