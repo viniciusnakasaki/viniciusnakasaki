@@ -13,7 +13,7 @@ Atualmente estudo Java para desenvolvimento back-end, com Programação Orientad
 # 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,angular,react,html,css,bootstrap,mongodb,mysql,git,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,angular,react,html,css,bootstrap,mongodb,mysql,docker,git,figma&perline=7" />
 </p>
 
 ## Linguagens
@@ -46,6 +46,7 @@ Atualmente estudo Java para desenvolvimento back-end, com Programação Orientad
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Estatísticas
 
