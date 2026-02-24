@@ -8,6 +8,8 @@
 
 Atualmente estudo Java para desenvolvimento back-end, com Programação Orientada a Objetos, integração com bancos de dados via JDBC, persistência com JPA/Hibernate e criação de APIs REST com Spring Boot. Também busco fortalecer minha base em arquitetura de sistemas, organização de código e boas práticas profissionais. 
 
+---
+
 # 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
@@ -53,6 +55,8 @@ Atualmente estudo Java para desenvolvimento back-end, com Programação Orientad
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=viniciusnakasaki&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusnakasaki&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viniciusnakasaki&color=0042F4&style=for-the-badge"/>
