@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=0042F4&size=35&center=true&vCenter=true&width=900&lines=Hello+%F0%9F%91%8B;Vinicius+Nakasaki;Back-end+Developer;FullStack+Developer"/>
 </p>
 
-Atualmente estou aprofundando o estudo em Java para desenvolvimento back-end, com Programação Orientada a Objetos, integração com bancos de dados via JDBC, persistência com JPA/Hibernate e criação de APIs REST com Spring Boot. Também busco fortalecer minha base em arquitetura de sistemas, organização de código e boas práticas profissionais. 
-
 ---
 
 # 🛠️ Tecnologias e Ferramentas
