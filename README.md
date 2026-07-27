@@ -11,7 +11,7 @@
 # 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,angular,html,css,bootstrap,mongodb,mysql,postgresql,git,figma,idea&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,angular,bootstrap,mongodb,mysql,postgresql,git,idea&perline=7" />
 </p>
 
 ## Linguagens
